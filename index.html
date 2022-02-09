@@ -40,7 +40,7 @@
     <div class='console-underscore' id='console'>&#95;</div>
 </div>
 <div class="container border border-info p-3" id="app" style="background: #ededed;">
-    <form action="submit.php" method="post">
+    <form action="submit.php" method="post"  enctype="multipart/form-data">
         <div class="row">
             <div class="col-md-12 font-weight-bold">
                 আপনার জিজ্ঞাসাঃ
@@ -71,7 +71,7 @@
                         </select>
                     </td>
                     <td>সংযুক্তিঃ <br>
-                        <input name="attachment_path" type="file" accept="image/*,.pdf,.doc,.docx"/>
+                        <input type="file" name="attachment_path"  accept="image/png,image/jpg,image/jpeg,application/pdf"/>
                     </td>
                 </tr>
             </table>
