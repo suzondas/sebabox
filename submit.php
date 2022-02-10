@@ -9,9 +9,9 @@ try {
         /*File Upload*/
         $attachment_path = '';
         if (file_exists($_FILES['attachment_path']['tmp_name']) || !is_uploaded_file($_FILES['attachment_path']['tmp_name'])) {
-            $verifyimg = mime_content_type($_FILES['attachment_path']['tmp_name']);
+            $filType = mime_content_type($_FILES['attachment_path']['tmp_name']);
 
-            if (!in_array($verifyimg, ['image/png', 'image/jpg', 'image/jpeg', 'application/pdf'])) {
+            if (!in_array($filType, ['image/png', 'image/jpg', 'image/jpeg', 'application/pdf'])) {
                 echo "Only  Image or PDF is allowed!";
                 exit;
             }
@@ -19,8 +19,8 @@ try {
             $uploaddir = 'uploads/';
 
             $extension = pathinfo($_FILES["attachment_path"]["name"], PATHINFO_EXTENSION);
-            $name = $_POST["attachment_path"];
-            $fileName =
+//            $name = $_POST["attachment_path"];
+            $fileName = date('m-d-Y_hia') . "." . $extension;
 
             $uploadfile = $uploaddir . basename($fileName);
 
@@ -34,7 +34,7 @@ try {
         $stid = oci_parse($conn, 'INSERT INTO DATA_APPLICATIONS a(name,designation,ORGANISATION,mobile,email,nid,purpose,DATA_FORMAT,ATTACHMENT_PATH,question,APPLICATION_STATUS,APPLICATION_DATE)
 values(:name,:designation,:organisation,:mobile,:email,:nid,:purpose,:data_format,:attachment_path,:question,:application_status,to_date(:application_date,:format))');
         $application_status = 1;
-        $application_date = '2020/3/3';
+        $application_date = date('Y/m/d');
         $format = 'yyyy/mm/dd';
         oci_bind_by_name($stid, ":name", $_POST['name']);
         oci_bind_by_name($stid, ":designation", $_POST['designation']);
