@@ -7,8 +7,9 @@ try {
         trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
     } else {
         /*File Upload*/
+
         $attachment_path = '';
-        if (file_exists($_FILES['attachment_path']['tmp_name']) || !is_uploaded_file($_FILES['attachment_path']['tmp_name'])) {
+        if ($_FILES['attachment_path']['tmp_name']!='') {
             $filType = mime_content_type($_FILES['attachment_path']['tmp_name']);
 
             if (!in_array($filType, ['image/png', 'image/jpg', 'image/jpeg', 'application/pdf'])) {

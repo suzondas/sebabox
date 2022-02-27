@@ -45,10 +45,10 @@
         <div class="row">
             <table class="table table-bordered table-striped font-weight-bold">
                 <tr>
-                    <td>নাম(Name): <input name="name" type="text" class="form-control" required></td>
-                    <td>পদবী/পেশা(Designation/profession):
+                    <td class="col-md-4">নাম<br>(Name): <input name="name" type="text" class="form-control" required></td>
+                    <td class="col-md-4">পদবী/পেশা<br>(Designation/profession):
                         <input name="designation" type="text" class="form-control" required></td>
-                    <td>প্রতিষ্ঠান(Organziation):
+                    <td class="col-md-4">প্রতিষ্ঠান<br>(Organziation):
                         <input name="organisation" type="text" class="form-control" required></td>
                 </tr>
                 <tr>
@@ -57,17 +57,17 @@
                     <td>জাতীয় পরিচয়পত্র নম্বর(NID): <input name="nid" type="number" class="form-control" required></td>
                 </tr>
                 <tr>
-                    <td>তথ্য প্রাপ্তির উদ্দেশ্য(Purpose of Information):
+                    <td>তথ্য প্রাপ্তির উদ্দেশ্য<br>(Purpose of Information):
                         <textarea name="purpose" style="width:100%"></textarea>
                     </td>
-                    <td>কোন ফরমেটে তথ্য চান(Required Format):<br>
+                    <td>কোন ফরমেটে তথ্য চান<br>(Required Format):<br>
                         <select class="form-control" name="data_format">
                             <option value="1">Excel</option>
                             <option value="2">PDF</option>
                             <option value="3">CSV</option>
                         </select>
                     </td>
-                    <td>সংযুক্তি(Attachment): <br>
+                    <td>যেই ফরমেটে তথ্য চান তার সংযুক্তি<br>(Attachment for the Required format): <br>
                         <input type="file" name="attachment_path"  accept="image/png,image/jpg,image/jpeg,application/pdf"/>
                     </td>
                 </tr>
