@@ -1,6 +1,6 @@
 <?php
 
-$conn = oci_connect('stat_sebabox', 'sebabox', '192.168.245.33/ORCL', 'AL32UTF8');
+$conn = oci_connect('', '', '', 'AL32UTF8');
 try {
     if (!$conn) {
         $e = oci_error();
