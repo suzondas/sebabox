@@ -55,6 +55,24 @@ values(:name,:designation,:organisation,:mobile,:email,:nid,:purpose,:data_forma
             echo "<h2 align='center'>কারিগরি সমসার কারনে আপনার জিজ্ঞাসাটি জমা হয়নি। আবার চেষ্টা করুন। </h2><br> <a href='index.html'><button class='btn btn-warning'>Back</button></a> ";
         } else {
             echo "<h2 align='center'>আপনার জিজ্ঞাসাটি সফলভাবে জমা হয়েছে। শীগ্রই আপনার ইমেইলে তথ্য প্রদান করা হবে।</h2> <br> <a href='index.html'><button class='btn btn-warning'>Back</button></a> ";
+            $to = "suzon.du@hotmail.com";
+            $subject = "This is subject";
+
+            $message = "<b>This is HTML message.</b>";
+            $message .= "<h1>This is headline.</h1>";
+
+            $header = "From:sebabox@banbeis.gov.bd \r\n";
+//            $header .= "Cc:afgh@somedomain.com \r\n";
+            $header .= "MIME-Version: 1.0\r\n";
+            $header .= "Content-type: text/html\r\n";
+
+            $retval = mail ($to,$subject,$message,$header);
+
+            if( $retval == true ) {
+                echo "Message sent successfully...";
+            }else {
+                echo "Message could not be sent...";
+            }
         }
     }
 } catch (Exception $e) {

@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03ca354-c757-4230-8c07-da38cc6277d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/sebabox/public/images/banbeis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sebabox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sebabox.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/sebabox/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/sebabox/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/sebabox/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/sebabox/resources/views/auth/partials/copy.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/sebabox/resources/views/auth/partials/copy.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/sebabox/resources/views/home/application.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/sebabox/resources/views/home/application.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/sebabox/resources/views/home/detail.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/sebabox/resources/views/home/detail.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/sebabox/resources/views/home/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/sebabox/resources/views/home/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/sebabox/resources/views/layouts/app-master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/sebabox/resources/views/layouts/app-master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/sebabox/resources/views/layouts/partials/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/sebabox/resources/views/layouts/partials/navbar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submit.php" beforeDir="false" afterPath="$PROJECT_DIR$/submit.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,54 +23,105 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="86" column="88" selection-start-line="86" selection-start-column="88" selection-end-line="86" selection-end-column="88" />
+            <state relative-caret-position="294">
+              <caret line="984" lean-forward="true" selection-start-line="984" selection-end-line="984" />
               <folding>
-                <element signature="n#style#0;n#textarea#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#284#290#1" expanded="true" />
+                <element signature="e#388#394#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/submit.php">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-626">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="-410">
+              <caret line="215" column="16" lean-forward="true" selection-start-line="215" selection-start-column="16" selection-end-line="215" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="112">
+              <caret line="541" column="45" selection-start-line="541" selection-start-column="36" selection-end-line="541" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#ul#1;n#div#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" />
+                <element signature="n#style#0;n#strike#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#35#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/axios.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/admin/sebabox/public/images/bootstrap-logo.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/sebabox/public/images/bootstrap-logo-white.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/auth/login.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/auth/partials/copy.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/home/detail.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/home/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -65,31 +129,64 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>file</find>
+      <find>attachment_path</find>
+      <find>couponPopup</find>
+      <find>select-bogie</find>
+      <find>chooseSeat</find>
+      <find>confirmbooking</find>
+      <find>#confirmbooking</find>
+      <find>mult</find>
+      <find>www-</find>
+      <find>multiple</find>
+      <find>ajax</find>
+      <find>seat-av</find>
+      <find>ga</find>
+      <find>seat-ava</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/admin/sebabox" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/submit.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/submit.php" />
+        <option value="$PROJECT_DIR$/admin/sebabox/.env" />
+        <option value="$PROJECT_DIR$/admin/sebabox/resources/views/layouts/app-master.blade.php" />
+        <option value="$PROJECT_DIR$/admin/sebabox/resources/views/layouts/partials/navbar.blade.php" />
+        <option value="$PROJECT_DIR$/admin/sebabox/resources/views/home/index.blade.php" />
+        <option value="$PROJECT_DIR$/admin/sebabox/resources/views/home/application.blade.php" />
+        <option value="$PROJECT_DIR$/admin/sebabox/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/admin/sebabox/resources/views/auth/partials/copy.blade.php" />
+        <option value="$PROJECT_DIR$/admin/sebabox/resources/views/home/detail.blade.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" />
       </list>
     </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-6" />
     <option name="width" value="449" />
     <option name="height" value="229" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,27 +197,109 @@
             <path>
               <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
               <item name="sebabox" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
               <item name="sebabox" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
               <item name="sebabox" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="sebabox" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="sebabox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PHP&#10;JavaScript" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../banbeis_pds" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -128,6 +307,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\sebabox\admin\sebabox\public\images" />
       <recent name="D:\xampp\htdocs\sebabox\js" />
     </key>
   </component>
@@ -168,18 +348,23 @@
       <workItem from="1644385697349" duration="8361000" />
       <workItem from="1644466009110" duration="4169000" />
       <workItem from="1645950303489" duration="1301000" />
-      <workItem from="1646485619269" duration="1769000" />
+      <workItem from="1646485619269" duration="2501000" />
+      <workItem from="1655808360682" duration="3351000" />
+      <workItem from="1657703470079" duration="4376000" />
+      <workItem from="1657877070638" duration="4166000" />
+      <workItem from="1657896838239" duration="9565000" />
+      <workItem from="1657965890919" duration="7275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24344000" />
+    <option name="totallyTimeSpent" value="53809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19515885" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1709531" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -191,8 +376,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22749591" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.20949264" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.109656304" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -204,21 +389,58 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/axios.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submit.php">
+    <entry file="file://$PROJECT_DIR$/js/institute_type.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-626">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="299">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -226,19 +448,151 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="207">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/axios.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/.env.">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/config/oracle.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2208" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/layouts/auth-master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/layouts/app-master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="40" column="89" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="86" column="88" selection-start-line="86" selection-start-column="88" selection-end-line="86" selection-end-column="88" />
+        <state relative-caret-position="300">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#textarea#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/layouts/partials/navbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="99" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/home/application.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/public/images/bootstrap-logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/public/images/bootstrap-logo-white.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/auth/partials/copy.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/home/detail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sebabox/resources/views/home/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="984" lean-forward="true" selection-start-line="984" selection-end-line="984" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#284#290#1" expanded="true" />
+            <element signature="e#388#394#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-410">
+          <caret line="215" column="16" lean-forward="true" selection-start-line="215" selection-start-column="16" selection-end-line="215" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="541" column="45" selection-start-line="541" selection-start-column="36" selection-end-line="541" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#ul#1;n#div#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#strike#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
